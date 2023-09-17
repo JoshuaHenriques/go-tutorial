@@ -1,0 +1,6 @@
+{
+    // deprecated 
+    "gopls": {
+        "experimentalWorkspaceModule": true,
+    }
+}
